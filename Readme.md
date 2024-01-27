@@ -32,3 +32,4 @@
 #created models
 #jwt,bcrypt,refresh tokens
 #multer
+#cloudnary
